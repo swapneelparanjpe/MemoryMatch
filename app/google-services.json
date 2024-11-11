@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154886584070",
+    "project_id": "memory-match-f9dd3",
+    "storage_bucket": "memory-match-f9dd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154886584070:android:c154fcc0e1f1d1159a9087",
+        "android_client_info": {
+          "package_name": "com.swappy.apps.memorymatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAV_gPs9xXBDflDkzBxB6TBrCeZsooY4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
